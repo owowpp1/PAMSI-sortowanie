@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1584552932 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	"funkcje.hh"
+	"algorytmy.hh"
+
+1584552803 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/funkcje.cpp
+	"funkcje.hh"
+
+1584552769 /home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/funkcje.hh
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+	"tablica.hh"
+
+1584557039 /home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/tablica.hh
+	<chrono>
+	<iostream>
+
+1584554980 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/algorytmy.cpp
+	"algorytmy.hh"
+	<iostream>
+
+1584554412 /home/bidzejdryczi/Desktop/pprog/PAMSI/Sortowanie/algorytmy.hh
+	"tablica.hh"
+
+1585228827 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/algorytmy.cpp
+	"algorytmy.hh"
+	<iostream>
+
+1585228882 /home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/algorytmy.hh
+	"tablica.hh"
+
+1584557039 /home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/tablica.hh
+	<chrono>
+	<iostream>
+
+1585218693 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/funkcje.cpp
+	"funkcje.hh"
+
+1585218692 /home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/funkcje.hh
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<fstream>
+	"tablica.hh"
+
+1585227159 source:/home/bidzejdryczi/Desktop/pprog/PAMSI/Alg_testy/main.cpp
+	<iostream>
+	<iomanip>
+	<stdlib.h>
+	<cmath>
+	"funkcje.hh"
+	"algorytmy.hh"
+
