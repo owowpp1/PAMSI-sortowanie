@@ -117,13 +117,13 @@ void WykonajPomiary(Jakisort tryp){
         for(int j=0; j<8; j++){
             if(j!=7){
                 cout<<" posortowanej w "<<Sortowania[j]<<"%.\n";
-//                Plik<<"Tabela posortowana w "<<Sortowania[j]<<"%:\n";
-                Plik<<endl;
+                Plik<<"Tabela posortowana w "<<Sortowania[j]<<"%:\n";
+//                Plik<<endl;
                 }
             else{
                 cout<<" posortowanej i odwróconej.\n";
-//                Plik<<"Tabela posortowana a następnie odwrócona:\n";
-                Plik<<endl;
+                Plik<<"Tabela posortowana a następnie odwrócona:\n";
+//                Plik<<endl;
                 }
             for(int k=0; k<100; k++){
                 if(j!=7){
